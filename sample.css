@@ -1,0 +1,8 @@
+﻿.results {
+    padding: 16px;
+    background: #eee;
+}
+
+    .results:before {
+        content: "認識結果:";
+    }
